@@ -1,8 +1,8 @@
 # Sobre o projeto <br>
 
-<img src="https://github.com/gabeps2/ignews-pb/blob/main/img/homepage.png?raw=true"/>
-<img src="https://github.com/gabeps2/ignews-pb/blob/main/img/posts.png?raw=true"/>
-<img src="https://github.com/gabeps2/ignews-pb/blob/main/img/post-example.png?raw=true"/> <br>
+<img src="https://github.com/gabeps2/ignews-pb/blob/master/img/homepage.png?raw=true"/>
+<img src="https://github.com/gabeps2/ignews-pb/blob/master/img/posts.png?raw=true"/>
+<img src="https://github.com/gabeps2/ignews-pb/blob/master/img/post-example.png?raw=true"/> <br>
 
 IGNews é um projeto desenvolvido durante o bootcamp Ignite da Rocketseat na trilha ReactJS com o objetivo de entender e aplicar o modo com o front-end está evoluindo, recebendo mais responsabilidade na apresentação dos dados e conexão com serviços externos.
 
